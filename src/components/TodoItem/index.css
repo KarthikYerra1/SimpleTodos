@@ -1,0 +1,26 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+
+.title {
+  font-size: 15px;
+  text-align: left;
+  color: #000000;
+}
+
+.btn {
+  color: #ff0b37;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #ff0b37;
+  border-radius: 10px;
+  padding: 9px 20px 8px 20px;
+  height: 35px;
+  background-color: #fff;
+  cursor: pointer;
+  outline: none;
+  margin-right: 40px;
+}
